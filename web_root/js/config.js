@@ -1,7 +1,7 @@
 // JavaScript Document
 // both are not include '/' at the end
-var serverHost = "http://192.168.0.190/Evaluation";
-var webRoot = "http://192.168.0.190/Evaluation";
+var serverHost = "http://localhost";
+
 
 var requireLoginPage = "index.html";
 var afterLoginPage = "main-menu.html";
